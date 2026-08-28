@@ -1,0 +1,82 @@
+# =============================
+# Unity generated folders/files
+# =============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
+# =============================
+# Visual Studio / Rider / VS Code generated files
+# =============================
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =============================
+# Unity3D generated meta files (project-level, keep only build info out)
+# =============================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =============================
+# Unity3D Generated File On Crash Reports
+# =============================
+sysinfo.txt
+
+# =============================
+# Builds
+# =============================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+[Bb]uilds/
+
+# =============================
+# Crashlytics generated file
+# =============================
+crashlytics-build.properties
+
+# =============================
+# Packages (auto-restored, safe to ignore lock files but keep manifest.json)
+# =============================
+/[Pp]ackages/*
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
+
+# =============================
+# OS generated files
+# =============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
